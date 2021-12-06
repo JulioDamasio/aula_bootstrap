@@ -1,0 +1,43 @@
+
+
+
+.navbar{
+
+    background-color: rgb(46, 63, 53);
+}
+
+.Quem-Somos{
+
+    background-color: rgb(87, 110, 99);
+}
+
+.Parceiros{
+    
+    background-color: rgb(85, 58, 58);
+
+}
+
+.margin{
+
+    padding-bottom: 50px;
+    padding-top: 10px;
+
+}
+
+.imagemti{
+
+    border-radius: 10px;
+
+}
+
+.imagemcerebro{
+
+    border-radius: 10px;
+}
+
+.credits{
+
+    margin-top: 60px;
+    background-color: black;
+    color: white
+}
